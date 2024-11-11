@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.before;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.before;
 
 //관람객
 public class Audience {

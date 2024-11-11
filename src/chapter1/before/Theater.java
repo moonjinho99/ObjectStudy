@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.before;
 
 //극장
 public class Theater {

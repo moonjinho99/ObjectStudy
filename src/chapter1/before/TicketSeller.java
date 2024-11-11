@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.before;
 
 //판매원
 public class TicketSeller {
